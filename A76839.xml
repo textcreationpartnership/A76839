@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A blazing starre seen in the west at Totneis in Devonshire, on the foureteenth of this instant November, 1642. VVherin is manifested how master Ralph Ashley, a deboyst cavalier, attemted to ravish a young virgin, the daughter of Mr. Adam Fisher, inhabiting neare the said towne. Also how at that instant, a fearefull comet appeared, to the terrour and amazment of all the country thereabouts. Likewise declaring how he persisting in his damnable attemt, was struck with a flaming-sword, which issued from the comet, so that he dyed a fearefull example to al his fellow cavaliers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76839</idno>
+            <idno type="STC">Wing B3182</idno>
+            <idno type="STC">Thomason E128_8</idno>
+            <idno type="STC">ESTC R1000</idno>
+            <idno type="EEBO-CITATION">99858783</idno>
+            <idno type="PROQUEST">99858783</idno>
+            <idno type="VID">156235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156235)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A blazing starre seen in the west at Totneis in Devonshire, on the foureteenth of this instant November, 1642. VVherin is manifested how master Ralph Ashley, a deboyst cavalier, attemted to ravish a young virgin, the daughter of Mr. Adam Fisher, inhabiting neare the said towne. Also how at that instant, a fearefull comet appeared, to the terrour and amazment of all the country thereabouts. Likewise declaring how he persisting in his damnable attemt, was struck with a flaming-sword, which issued from the comet, so that he dyed a fearefull example to al his fellow cavaliers.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonas Wright, and I. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashley, Ralph, d. 1642 --  Early works to 1800.</term>
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Rape --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156235:1" rendition="simple:additions"/>
+            <p>A Blazing Starre ſeene JN THE WEST At <hi>Totneis</hi> in <hi>Devonſhire,</hi> on the foureteenth of this inſtant <hi>November,</hi> 1642.</p>
+            <p>VVherin is manifeſted how Maſter <hi>Ralph Aſhley,</hi> a deboyſt Cavalier, attem<g ref="char:EOLhyphen"/>ted to raviſh a young Virgin, the Daughter of Mr. <hi>Adam Fiſher,</hi> in<g ref="char:EOLhyphen"/>habiting neare the ſaid Towne.</p>
+            <p>Alſo how at that inſtant, a fearefull Comet appeared, to the terrour and amazment of all the Country thereabouts.</p>
+            <p>Likewiſe declaring how he perſiſting in his damnable attemt, was ſtruck with a flaming-Sword, which iſſued from the Comet, ſo that he dyed a fearefull ex<g ref="char:EOLhyphen"/>ample to al his fellow Cavaliers.</p>
+            <p>
+               <add>nouemb: 25<hi rend="sup">th</hi>
+               </add> LONDON, Printed for <hi>Jonas Wright,</hi> and <hi>I. H.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156235:2"/>
+            <pb facs="tcp:156235:2"/>
+            <head>A Blazing Starre in the Weſt, or fearefull Comet ſeene in the Aire at <hi>Totneis</hi> in <hi>Devonſhire,</hi> on the foureteenth of this inſtant <hi>November,</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O it happened on Munday the 14th of this inſtant <hi>No<g ref="char:EOLhyphen"/>vember,</hi> that a young Virgine, Daughter to Maſter <hi>Adam Fi<g ref="char:EOLhyphen"/>ſher,</hi> inhabitant in <hi>Devonſhire,</hi> within a mile of <hi>Totneyes,</hi> upon ſome particular occaſions happened to go to the ſaid Towne, where being bu<g ref="char:EOLhyphen"/>ſied, partly about her occaſions, and part<g ref="char:EOLhyphen"/>ly in viſiting ſome Friends and Kinsfolkes, ſhe was belated, ſo that her Friends were importunate to have her ſtay all night, but ſhe replyed, that her Father would be diſ<g ref="char:EOLhyphen"/>contented if ſhe ſhould be abſent without
+<pb facs="tcp:156235:3"/>his leave. the times being ſo dangerous, and ſo many Cavaliers abroad, wherefore ſhe was reſolved hap what might hap, to goe home that night.</p>
+            <p>Notwithſtanding all theſe reaſons which ſhe alledged, her Friend grew importunate to have her ſtay, telling her that there were many deboyſt Covaliers abroad, ſo that they could not paſſe ſecurely in the day time, much leſſe in the night, for all this ſhe would not be perſwaded, but replied, that God was above the Devill, and that ſhe feared not, but that that God which ſhee truſted in, could, and would defend her from all her Enemies.</p>
+            <p>With thie reſolution ſhe ſet forward, but be<g ref="char:EOLhyphen"/>fore ſhe could get the halfe of the way to her fathers houſe it grew very darke, ſo that ſhe could ſcarce diſcerne her hand, thus ſhe went on, ſometime liſtening whe<g ref="char:EOLhyphen"/>ther ſhe could heare any Body, upon the way, on a ſudden ſhe heard the noyſe of a Horſe galloping towards her, at which ſhe beganne to be affraid.</p>
+            <p>But at laſt ſhe plucked up a good heart and went forward, till ſhee met with this
+<pb facs="tcp:156235:3"/>Gentleman M.r <hi>Ralph Aſhley,</hi> a Gentleman which knew her well, and ſhe knew him, meeting with this Gentleman, he asked her whether ſhe was going ſo late, ſhe told him home to her fathers, he demanded who that was, ſhe told him Maſter <hi>Adam Fiſher,</hi> with that he called to mind her beauty, and the Devill ſtrait furniſhed him with a device to obtaine his wicked purpoſe, ſweet heart quoth he I know thy father well, and for his ſake J will ſee the ſafe at thy fathers Houſe, for the times are dangerous, and but a little before there are ſouldiers which J have cauſe to ſuſpect, will doe the ſome outrage, the maid hearing him ſay ſo, was wonne to condiſcend to him, partly by her knowledge of his ſuppoſed friendſhip to her father, and partly by her deſire to get home without any further danger, to be ſhort, the maid being wonne by his ſpeci<g ref="char:EOLhyphen"/>our pretences of love and friendſhip, appli<g ref="char:EOLhyphen"/>ed her ſelfe to get up, he having her behind him rode cleane out of the Road, (pre<g ref="char:EOLhyphen"/>tending that he did ſo to avoid the ſoul<g ref="char:EOLhyphen"/>diers) till he was got out of the hoaring of any inhabitant.</p>
+            <pb facs="tcp:156235:4"/>
+            <p> Where being arrived, he fained an ex<g ref="char:EOLhyphen"/>cuſe to light, with that ſhe ſlipt off the horſe backe, and he alighted, then preſent<g ref="char:EOLhyphen"/>ly he layed His hands on her, and began to woe her to grant his deſire, but ſhe de<g ref="char:EOLhyphen"/>nying him with unlimited reſolution, he went about to raviſh her, taking a grievous oath that no power in heaven or earth could ſave her from his luſt, with that the poore virgin, with pittious ſhrikes and cries spake theſe words <hi>O Lord God of Hoſts, tis in thy power to deliver me, help Lord or J periſh,</hi> in the meane time he continued curſing and ſwearing that her prayers were in vaine, for there was no power could re<g ref="char:EOLhyphen"/>deeme her, the words were no ſooner vt<g ref="char:EOLhyphen"/>tered, but immediatly a fearefull Commet burſt out in the ayre, ſo that it was as light as at high noone, this ſudden apparition ſtruck him and all the inhabitants into a great feare, and the poore virgin was in<g ref="char:EOLhyphen"/>tranced, the wretch caſting his eye about and ſeeing her lye upon the ground as if he had meant to dane damnation tooke a great oath ſwearing <hi>God-Damme-him.</hi> alive or deadhe would jnjoy her.</p>
+            <pb facs="tcp:156235:4"/>
+            <p> And as he was going about to lay hands of her intranced Body, A ſtreame of fire ſtrucke from the Comet, in the perfect ſhape, and exact reſemblance of a flaming Sword, ſo that he fell downe ſtaggering, ſe<g ref="char:EOLhyphen"/>verall poore ſhepheards which were in the field, foulding their ſlockes, theſe being amazed, ſeeing the flame of the Comet ſtrike at the Earth, as they conceived, made to the place as neere as they could, where they heard a man blaſpheming, and belch<g ref="char:EOLhyphen"/>ing forth many damnable imprecations, and comming to the place, demanding how he came ſo wounded, he voluntarily related his intention, and what had happened to him by the perverſeneſſe of that Round-headed-whore, ſo he died raving and blaſ<g ref="char:EOLhyphen"/>pheming to the terrour and amazement of the beholders.</p>
+            <p>The men preſently tooke up the Maid. ſuppoſing ſhe had been dead, and carried her home to her fathers Houſe, where they were entertained, though with great ſor<g ref="char:EOLhyphen"/>row for their daughters ſuppoſed death, the maid having continued intranced thus almoſt all that night, at length ſhe began
+<pb facs="tcp:156235:5"/>to draw her breath, and when ſhe came to her ſelfe, the very firſt words that ſhe ſpake were theſe, <hi>Lord thon art Iuſt in thy Judg<g ref="char:EOLhyphen"/>ments and mercifull in the mideſt of thy juſtice, wherefore J beſeech the let not this ſinne be imputed to his Charge, in the day of Judg<g ref="char:EOLunhyphen"/>ment.</hi>
+            </p>
+            <p>Reader heare is a preſident for all thoſe that are cuſtomary blaſphemers, and live after the luſts of their fleſh. eſpecially all thoſe Cavaliers which eſteem murder &amp; ra<g ref="char:EOLhyphen"/>pine the chiefe Principalls of their religion, for doubtleſse this is but a begining of Gods vengance for not onely he, but they, and we, and all of us, except we repent, we ſhall all likewiſe periſh.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
